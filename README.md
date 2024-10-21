@@ -1,2 +1,2 @@
-# Papers-
+# Papers
 Academic Papers
